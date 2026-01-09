@@ -60,6 +60,7 @@ This work is intentionally rigorous, operational, and willing to surface uncomfo
 
 ## Selected Publications & Invited Talks (Abbreviated)
 
+- *Agentic Product Maturity Ladder V0.1* — MLCommons
 - *Cascade: Human-in-the-Loop Shortcomings Can Increase the Risk of Failures in Recommender Systems* — FAccTRec @ RecSys 2025
 - *AILuminate v1.0: Generative AI Safety Benchmark* — MLCommons
 - MLCommons Security Jailbreak Benchmark v0.5
