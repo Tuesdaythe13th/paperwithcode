@@ -32,7 +32,7 @@ layout: default
           <div class="card mt-4 p-4 shadow-sm border-0">
             <h2 class="card-title font-weight-bold" id="{{ entry.title | slugify }}">{{ entry.title }}</h2>
             <hr class="mb-3">
-            <div class="card-body">
+            <div>
               {% if entry.type == 'list' %}
                 {% include cv/list.liquid %}
               {% elsif entry.type == 'map' %}
@@ -43,8 +43,6 @@ layout: default
                 {% include cv/time_table.liquid %}
               {% elsif entry.type == 'list_groups' %}
                 {% include cv/list_groups.liquid %}
-              {% elsif entry.type == 'text' %}
-                {{ entry.contents | markdownify }}
               {% else %}
                 {{ entry.contents }}
               {% endif %}
