@@ -3,7 +3,7 @@ layout: page
 title: resources
 permalink: /resources/
 description: A curated repository of research, tools, and operational frameworks across AI safety, agentic systems, and socio-technical risk.
-nav: true
+nav: false
 nav_order: 6
 toc:
   sidebar: left
