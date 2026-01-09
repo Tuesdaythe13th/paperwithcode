@@ -212,14 +212,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/artifexlabs", "_blank");
+          window.open("https://www.linkedin.com/in/222tuesday", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0009-0002-3062-033X", "_blank");
+          window.open("https://orcid.org/0009-0002-1502-0621", "_blank");
         },
       },{
         id: 'social-scholar',
