@@ -7,7 +7,6 @@ subtitle: Advancing Frontier AI Safety and Mechanistic Evaluations
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Portland, Los Angeles, and New York</p>
     <p>Remote-first</p>
@@ -27,59 +26,43 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## About
+## About Us
 
-Published machine learning engineer and evaluation researcher building clinically inspired diagnostics for frontier AI systems, applying biological and cognitive failure models to evaluation, red teaming, and agentic risk analysis. My decentralized intelligence model for R&D operates consortium style and extends from Southern California to international bodies from Paris to Singapore.
+ARTIFEX Labs is an independent research and engineering laboratory dedicated to advancing AI safety, mechanistic evaluation, and socio-technical risk analysis under real-world deployment conditions. We study intelligent systems as they actually exist: adaptive, incentive-shaped, embedded in human contexts, and exposed to misuse, drift, and adversarial pressure.
 
-I am committed to forging responsible, ecocentric technology frameworks. Artist/engineer with a love of the classical arts and 20 years of service in hospitality, fine arts, production design, and entertainment. I studied political science at George Washington University and grew up in NYC with world-class mentors in the music industry and fine art sales.
+Our work sits at the intersection of machine learning, cybersecurity, human factors, psychology, and governance. ARTIFEX operates as a decentralized, consortium-style R&D network, producing audit-ready artifacts including benchmarks, evaluation protocols, forensic analyses, and standards-aligned documentation. We emphasize adversarial realism, causal reasoning, and reproducibility over aspirational alignment narratives.
 
-Epically curious and a bonafide self-starter, currently contributing to domestic and international assurance standards in responsible tech. A skeptical techno-optimist currently researching quantum systems, evaluation design, adversarial ML, experimental mechanistic interpretability techniques, and cognitive-affective modeling alongside world-class institutions including but not limited to **NIST, CISA, UN ITU, Google, DeepMind, Anthropic, Humane Intelligence, Oxford, Amazon, and NVIDIA**.
+ARTIFEX Labs maintains institutional independence to preserve epistemic integrity. Collaboration across academia, industry, civil society, and standards bodies is central to our model, but research agendas, methodologies, and conclusions are governed internally and validated through evidence, not affiliation.
 
-## Current Roles
+## Mission
 
-- **Founder & Director of Research**, ARTIFEX Labs — AI safety, interpretability, quantum systems, advanced computing
-- **Technical Contributor & Working Group Co-Founder**, MLCommons — Agentic AI, Security, AI Risk & Reliability, AILuminate, MLPerf Automotive
-- **Technical Red Teamer & Safety Researcher**, Humane Intelligence — Multimodal red teaming, policy-relevant audits
-- **Quantum Futures Research Contributor**, Open Compute Project (Future Technologies Initiative)
-- **Independent AI/ML Engineer**, Self-Employed Consultant — Mechanistic interpretability, adversarial ML, evaluation design
+To reduce harm from advanced intelligent systems by making their internal behavior, failure modes, and human impacts legible, testable, and governable.
 
-## Research Focus
+We treat AI safety as an engineering and forensic discipline: identifying how systems fail, quantifying risk under pressure, and translating technical findings into accountable infrastructure for deployment, oversight, and standards.
 
-**AI Safety and Benchmarking as a Service**
-Socio-technical risk analysis across agentic, multimodal, and quantum-adjacent systems
+## Vision
 
-**Evaluation Design Patterning, Clinical Diagnostics**
-SCAI risk, epistemic coercion, dissociative reasoning; 'DSM for AI Systems'
-[Sample Research: AI Psychosis Exploration](https://www.canva.com/design/DAGZQkMw4z8/2HwCBzMKxUXXbPhB0F3PZg/view)
+A technological ecosystem in which advanced AI systems are auditable by design, interpretable under stress, resilient to manipulation, and constrained by respect for human dignity rather than optimized solely for engagement, persuasion, or scale.
 
-**Hyperscaling and Multiagent Systems**
-Agentic maturity, cascade failures, multi-agent reliability and safety
+AI safety is treated as public-interest infrastructure, not a private optimization problem. Interpretability expands where systems must be accountable, and inference is restricted where humans must remain protected.
 
-**Adversarial ML and Mechanistic Interpretability**
-Jailbreaks, red teaming, neural tracing, exploit taxonomies, threat modeling
+## About Tuesday
 
-**Supply Chain Economics and Near Quantum Security**
-Post-quantum cryptography and hardware-rooted security for quantum data centers
-Quantum cryptography, error correction, hardware product design
+**Tuesday** is the Founder and Director of Research at ARTIFEX Labs. She is a published machine learning engineer and evaluation researcher focused on mechanistic accountability, adversarial ML, agentic system reliability, and socio-affective risk in human-AI interaction.
 
-**Artist and Musician IP Rights**
-Algorithmic justice, content authenticity, and equitable compensation frameworks for creative work
+Her research program applies clinically inspired diagnostic reasoning and biological failure models to frontier AI systems, treating misalignment, deception, and emergent instability as phenomena to be measured, not abstractly theorized. Her work spans mechanistic interpretability, red teaming, agentic failure analysis, behavioral signal leakage, and standards-aligned governance.
 
-**Post AGI Experimental Research and Development**
-National defense, social network contagion, provenance, counterterrorism
+Tuesday’s work has been validated across academic, applied, and standards-setting venues, including invited talks at ACM SIGGRAPH Frontiers, peer-reviewed publications at FAccTRec / RecSys, technical contributions to MLCommons benchmarks (AILuminate, Security Jailbreak Benchmark), and red-teaming research with Humane Intelligence. Her contributions inform international governance efforts including NIST AI 700-2, ISO/IEC 42001-aligned assurance frameworks, and UN ITU initiatives.
 
-## Technical Proficiency
+ARTIFEX Labs’ research agenda and Tuesday’s individual research trajectory form a single, coherent arc: from mechanistic diagnostics and adversarial evaluation, through human and societal impact analysis, to deployable safety infrastructure suitable for independent audit.
 
-Expert in rapidly adapting to new interfaces, languages, and libraries, with a fluid, dynamic learning style. Predominantly builds scripts and full-stack systems using proprietary agentic tools and AI copilots.
+This work is intentionally rigorous, operational, and willing to surface uncomfortable truths.
 
-**Core Stack:**
-Development & ML: Colab, Jupyter, PyTorch, TensorFlow, JAX, Hugging Face Transformers, TransformerLens, Inspect, Transluce Docent, Neuropedia
-Cloud & Scaling: GCP (Cloud CLI, BigQuery, Vertex AI, Kubernetes), NVIDIA tools (OpenUSD, developer suite)
-Prototyping & Coding: Visual Studio, GitHub, Replit, Lovable, v0, CodePen, Antigravity, Google AI Studio, Claude Code, OpenAI Codex
-Agentic & Emerging: MCP servers/extensions, agentic SDKs (AgentDevelopmentKit), evaluation/benchmark design
-Multimodal & APIs: Anthropic, OpenAI, Gemini, Mistral; quantum platforms (Qbraid, Qiskit, PennyLane, IonQ, Cirq)
-Languages: Python, TypeScript, JavaScript (full-stack focus)
+## Selected Publications & Invited Talks (Abbreviated)
 
-## Affiliations
-
-MLCommons · Humane Intelligence · Open Compute Project (FTI) · Cloud Security Alliance · ACM · AAAI · IEEE · Open Source Initiative · Content Authenticity Initiative · AI for Good (ITU) · Environmental Defense Fund · IAISI · Algorithmic Justice League · WIPO · Young EFF · The Sol Foundation · Google Women Techmakers
+- *Cascade: Human-in-the-Loop Shortcomings Can Increase the Risk of Failures in Recommender Systems* — FAccTRec @ RecSys 2025
+- *AILuminate v1.0: Generative AI Safety Benchmark* — MLCommons
+- MLCommons Security Jailbreak Benchmark v0.5
+- *Aspirational Gameplay: Improving Patient Care with AI-Powered Video Games* — ACM SIGGRAPH 2024 (Frontiers, Invited Talk)
+- AAAI 2026 Workshop: Predictive Multiplicity in Multi-Agent, Multi-Modal Systems
+- Winner — Humane Intelligence Bias Bounty (Accessibility, Advanced Data Track)
