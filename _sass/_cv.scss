@@ -44,6 +44,7 @@ h2.card-title[id] {
 
 .card {
   transition: all 0.3s ease;
+
   &:hover {
     transform: translateY(-2px);
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08) !important;
@@ -54,8 +55,10 @@ h2.card-title[id] {
   padding: 0.5em 0.8em;
   font-weight: 600;
   letter-spacing: 0.05em;
+
   &.danger-color-dark {
-    background-color: #ff3b30 !important; /* Premium red */
+    background-color: #ff3b30 !important;
+    /* Premium red */
   }
 }
 
@@ -239,3 +242,62 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+
+/*****************************
+ * CV TEXT type styles
+ *****************************/
+
+.cv {
+
+  // Scope markdown headers within text-type entries
+  .card-body {
+    h3 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-top: 1.5rem;
+      margin-bottom: 0.75rem;
+      color: var(--global-theme-color);
+      border-bottom: 1px solid var(--global-divider-color);
+      padding-bottom: 0.25rem;
+    }
+
+    h4 {
+      font-size: 1rem;
+      font-weight: 600;
+      margin-top: 1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    // Ensure lists are properly styled
+    ul,
+    ol {
+      margin-bottom: 1rem;
+      padding-left: 1.5rem;
+
+      li {
+        margin-bottom: 0.25rem;
+        line-height: 1.6;
+      }
+    }
+
+    // Horizontal rules for section breaks
+    hr {
+      margin-top: 1.5rem;
+      margin-bottom: 1.5rem;
+      border-color: var(--global-divider-color);
+      opacity: 0.3;
+    }
+
+    // Paragraphs
+    p {
+      margin-bottom: 0.75rem;
+      line-height: 1.6;
+    }
+
+    // Strong/bold text
+    strong {
+      font-weight: 600;
+      color: var(--global-text-color);
+    }
+  }
+}
