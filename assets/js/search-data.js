@@ -512,18 +512,18 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/paperwithcode/projects/9_project/";
             },},{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/artifexlabs", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/Tuesdaythe13th", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/artifexlabs", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -537,14 +537,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=", "_blank");
-        },
-      },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:", "_blank");
+          window.open("https://scholar.google.com/citations?user=z71m_nIAAAAJ", "_blank");
         },
       },{
         id: 'social-cv',
@@ -561,8 +554,8 @@ ninja.data = [{
           window.open("/paperwithcode/feed.xml", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-linktree',
+        title: 'Linktree',
         section: 'Socials',
         handler: () => {
           window.open("https://linktr.ee/artifexlabs", "_blank");
@@ -572,7 +565,7 @@ ninja.data = [{
         title: 'Huggingface',
         section: 'Socials',
         handler: () => {
-          window.open("https://huggingface.co/artifexlabs", "_blank");
+          window.open("https://huggingface.co/222tuesday", "_blank");
         },
       },{
       id: 'light-theme',
