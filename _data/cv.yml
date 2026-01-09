@@ -99,14 +99,18 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - "AAAI 26 MURE Workshop Invited Talk: Beyond the Rashomon Effect - Predictive Multiplicity in Agentic, Multi-Modal, and Multi-Objective AI Systems (January 27, Singapore)"
     - year: 2025
       items:
-        - AAAI 26 Invited Talk - Beyond the Rashomon Effect
-        - Winner - Humane Intelligence Bias Bounty Accessibility Challenge Set 4
+        - Winner - Humane Intelligence Bias Bounty Challenge Set 4, Advanced Data Track (Accessibility in Digital Conferencing for Neurodivergent Users)
         - Winner - UN ITU AI for Good x Princeton Challenge, 'Future Leaders in Quantum'
         - MLCommons Security Jailbreak Benchmark v0.5 released
         - MLCommons announces ARES for agentic systems
         - FAccTRec@RecSys - Oxford + Amazon collaboration on cascade failures
+        - Agentic Product Maturity Model released with MLCommons Agentic Working Group
+        - NIST AI 700-2 cites red-teaming work with Humane Intelligence and ARIA
     - year: 2024
       items:
         - Stanford AIMI Symposium finalist
