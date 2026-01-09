@@ -67,3 +67,13 @@ This work is intentionally rigorous, operational, and willing to surface uncomfo
 - *Aspirational Gameplay: Improving Patient Care with AI-Powered Video Games* — ACM SIGGRAPH 2024 (Frontiers, Invited Talk)
 - AAAI 2026 Workshop: Predictive Multiplicity in Multi-Agent, Multi-Modal Systems
 - Winner — Humane Intelligence Bias Bounty (Accessibility, Advanced Data Track)
+
+***
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="https://linktr.ee/artifexlabs" target="_blank" rel="noopener noreferrer">
+            <img src="https://assets-global.website-files.com/5c77c5f7ff93c10e0dcb93a4/5f718af9a89c19d96f93bedb_linktree-logo-icon.svg" width="40" height="40" alt="Linktree" style="filter: grayscale(1); opacity: 0.8; transition: 0.3s;">
+        </a>
+    </div>
+</div>
