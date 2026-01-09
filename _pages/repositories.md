@@ -11,9 +11,11 @@ nav_order: 4
 
 ## GitHub users
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+<div class="repositories row row-cols-1 row-cols-md-2 g-4">
   {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
+    <div class="col mb-4">
+      {% include repository/repo_user.liquid username=user %}
+    </div>
   {% endfor %}
 </div>
 
@@ -39,9 +41,11 @@ nav_order: 4
 
 ## GitHub Repositories
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+<div class="repositories row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
   {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
+    <div class="col mb-4">
+      {% include repository/repo.liquid repository=repo %}
+    </div>
   {% endfor %}
 </div>
 {% endif %}
