@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/paperwithcode/cv/";
           },
+        },{id: "nav-resources",
+          title: "resources",
+          description: "A curated repository of research, tools, and operational frameworks across AI safety, agentic systems, and socio-technical risk.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/paperwithcode/resources/";
+          },
         },{id: "dropdown-resources",
               title: "resources",
               description: "",
