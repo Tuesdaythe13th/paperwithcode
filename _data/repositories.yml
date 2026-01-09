@@ -4,7 +4,10 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - Tuesdaythe13th/semiotic_collapse
+  - Tuesdaythe13th/modelbench
+  - Tuesdaythe13th/neuronpedia
+  - Tuesdaythe13th/cultural_NLP_inspect-
+  - Tuesdaythe13th/A2A
+  - Tuesdaythe13th/jailbreaking-frontier-models
   - Tuesdaythe13th/paperwithcode
-  - Tuesdaythe13th/neuralforensicsuite
-  - mlcommons/ailuminate
-  - anthropics/evals
