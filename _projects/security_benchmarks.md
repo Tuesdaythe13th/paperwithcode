@@ -2,7 +2,7 @@
 layout: page
 title: Security Benchmarks & Evaluation Design
 description: MLCommons security benchmarks and evaluation design patterns for frontier AI systems
-img: assets/img/security_benchmark_preview.jpg
+img: assets/img/projects/security_benchmarks_bauhaus.jpg
 importance: 2
 category: research
 related_publications: true

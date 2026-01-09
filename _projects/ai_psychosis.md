@@ -2,7 +2,7 @@
 layout: page
 title: AI Psychosis Research
 description: Mechanistic exploration of dissociative reasoning patterns in frontier AI systems
-img: assets/img/psychosis_preview.jpg
+img: assets/img/projects/ai_psychosis_bauhaus.jpg
 importance: 1
 category: research
 related_publications: true

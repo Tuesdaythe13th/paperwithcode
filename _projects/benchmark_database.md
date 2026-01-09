@@ -2,7 +2,7 @@
 layout: page
 title: The Benchmark Database
 description: Comprehensive catalog of AI evaluation benchmarks and safety standards
-img: assets/img/benchmark_db_preview.jpg
+img: assets/img/projects/benchmark_database_bauhaus.jpg
 importance: 3
 category: research
 related_publications: true

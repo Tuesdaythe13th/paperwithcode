@@ -2,7 +2,7 @@
 layout: page
 title: Neural Forensic Suite
 description: Tools for mechanistic interpretability and neural circuit analysis
-img: assets/img/neural_forensics_preview.jpg
+img: assets/img/projects/neural_forensics_bauhaus.jpg
 importance: 2
 category: research
 related_publications: false

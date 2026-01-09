@@ -174,22 +174,106 @@
     - The Sol Foundation
     - Google Women Techmakers
 
-- title: Previous Work Highlights
+- title: Foundational Art & Curation
   type: time_table
   contents:
-    - title: Hospitality & Entertainment Industry Leadership
-      year: 2004-2020
+    - title: Resident Founding Artist
+      institution: Superchief Gallery (LA / NYC)
+      year: 2014-Present
       description:
-        - Opened over 16 bars and restaurants from Portland, Oregon to Bangkok, Thailand
-        - Private consultant, Beverage Director, Bar Manager, brand consultant
-        - Specialized in program launches, beverage direction, menu costing, staff management
-        - Tequila and Mezcal authority; creator of Rancho de La Luna Mezcal
-    - title: Experiential Design & Production
-      year: 2010-2020
+        - Member of the original cohort that established Superchief LA in the Historic Core
+        - Defined the "anti-elitist" street art movement through multidisciplinary works
+        - Exhibited across flagship locations in DTLA, Brooklyn, and Manhattan
+    - title: Co-Creator, Maritime Film Festival
+      institution: Pioneer Works (Red Hook, NYC)
+      year:
       description:
-        - "HBO: Twin Peaks Bang Bang Bar immersive activation"
-        - "PLAYBOY: The Hidden Arcade experiential exhibit"
-        - "MARVEL: Guardians of The Galaxy Christmas Screening event"
-        - "RED BULL: See Hear Now Music Festival sensory installation"
-        - "ALEXANDER WANG: SS'17 release immersive retail experience"
-        - "PIONEERWORKS: Maritime Film Festival with Dustin Yellin"
+        - Architected the signature film program for Dustin Yellin’s interdisciplinary center
+        - Curated cinematic explorations of nautical history and coastal culture
+    - title: Curation & Operations
+      institution: Jonathan LeVine Gallery (Chelsea, NYC)
+      year: 2005-2017
+      description:
+        - Embedded in the epicenter of the Pop Surrealist and Lowbrow movements
+        - Managed exhibitions for global icons including Shepard Fairey and Invader
+
+- title: Immersive Design & Fabrication
+  type: time_table
+  contents:
+    - title: Producer & Resident Artist
+      institution: Think Tank Gallery (DTLA)
+      year: 2017-2020
+      description:
+        - "Playboy’s Hidden Arcade: Managed high-profile 90s-themed collaboration with Cooper Hefner’s HOP"
+        - "Drinkin' Smokin' & West Coastin': Engineered the 'DMV-themed bar' and traffic-inspired maze entry"
+        - "Night on Broadway: Activation partner for the festival at the Los Angeles Theatre"
+    - title: Resident Artist / Fabricator
+      institution: Westin Mitchell Design Group (LA)
+      year:
+      description:
+        - Specialized in custom furniture and lighting using raw wood and steel
+        - Applied "material honesty" principles to high-end residential fabrication
+    - title: Apprentice
+      institution: Neptune Glassworks (LA)
+      year:
+      description:
+        - Apprenticed under Uri Davillier in precision glassblowing and mechanical fine art
+        - Fabricated complex lighting installations for Otium and the Hollywood Bowl
+
+- title: Agave Spirits Strategy & Brand Consulting
+  type: time_table
+  contents:
+    - title: Co-Creator & Brand Architect
+      institution: Los Javis Mezcal
+      year:
+      description:
+        - Positioned Los Javis in the U.S. market in collaboration with the Mateo family
+        - Developed the distribution blueprint for artisanal mezcal in SoCal
+    - title: Spirits Specialist & Consultant
+      institution: Pouring with Heart (Las Perlas, El Carmen)
+      year:
+      description:
+        - Technical training in Oaxacan heritage and spirits education
+        - "Mezcal El Silencio: Lead designer/fabricator for 'We Stole the Fire' (2018) immersive showcase"
+    - title: Corporate Visual Branding
+      institution: NASA / Verizon
+      year: 2014-2020
+      description:
+        - "NASA: Visual lead for the Mars Perseverance launch 'Mars Capsule Collection'"
+        - "Verizon: Campaign lead for 'Lo Mejor de Mi' cultural infrastructure campaign"
+
+- title: Hospitality Architecture & Gatekeeping
+  type: time_table
+  contents:
+    - title: Launch Team
+      institution: NeueHouse Madison Square (NYC)
+      year:
+      description:
+        - Executed the inaugural launch of the flagship Madison Square location
+        - Integrated elite professional programming with private club hospitality
+    - title: Door Host / Cultural Gatekeeper
+      institution: Le Baron Chinatown (NYC)
+      year: 2012-2014
+      description:
+        - Curated the "cultural chemistry" for Andre Saraiva’s exclusive NYC outpost
+        - Managed entry for international fashion, film, and art elite
+    - title: Relaunch Strategy & Production
+      institution: Clifton’s Republic
+      year:
+      description:
+        - Produced the relaunch of the historic 1932 cafeteria (Pacific Seas, Gothic Bar)
+    - title: Producer
+      institution: The Globe Theatre & Twin Peaks Pop-Up
+      year: 2018
+      description:
+        - Produced multi-level art showcases (Art Beyond the Glass) at the Globe Theatre
+        - Coordinated David Lynch-collaboration Twin Peaks hospitality experience
+
+- title: Technical Mentorships & Influence
+  type: list
+  contents:
+    - "Steve Lewis (ZGF Architects): Hospitality architecture and room flow science"
+    - "Greg Escalante (Juxtapoz): Lowbrow art movement and Chinatown resurgence"
+    - "Uri Davillier (Neptune Glassworks): Glass fabrication and lighting engineering"
+    - "Adam Wallacavage: Surrealist ornament and Victorian-punk plasterwork"
+    - "PORK New York (Andrew Poneros): Street-culture steel and glass fabrication"

@@ -2,7 +2,7 @@
 layout: page
 title: ARTIFEX Labs
 description: Independent research laboratory focused on AI safety, security, and mechanistic accountability in complex adaptive systems
-img: assets/img/artifex_labs_preview.jpg
+img: assets/img/projects/artifex_labs_bauhaus.jpg
 importance: 1
 category: research
 related_publications: true

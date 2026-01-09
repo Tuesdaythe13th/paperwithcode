@@ -2,7 +2,7 @@
 layout: page
 title: Quantum Futures Initiative
 description: Quantum assurance standards and post-quantum security for AI systems
-img: assets/img/quantum_preview.jpg
+img: assets/img/projects/quantum_futures_bauhaus.jpg
 importance: 3
 category: research
 related_publications: false
