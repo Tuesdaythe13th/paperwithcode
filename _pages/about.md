@@ -6,7 +6,7 @@ subtitle: Advancing Frontier AI Safety and Mechanistic Evaluations
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: artifex_logo.jpg
   more_info: >
     <p>Portland, Los Angeles, and New York</p>
     <p>Remote-first</p>
